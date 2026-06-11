@@ -1,0 +1,15 @@
+streamlit
+pandas
+numpy
+plotly
+prophet
+scikit-learn
+xgboost
+openpyxl
+joblib
+sqlalchemy
+fpdf
+pmdarima
+matplotlib
+kaleido
+Flask
